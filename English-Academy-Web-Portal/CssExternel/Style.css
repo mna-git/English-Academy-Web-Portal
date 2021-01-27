@@ -1,0 +1,73 @@
+.display-4{
+	text-align:center;
+}
+
+.carousel-caption {
+  top: 65%;
+  transform: translateY(-65%);
+}
+
+.foot-text{
+	color:#505050;
+}
+
+.footer {
+  background-color: #202020;
+  text-align: center;
+  color: #fff;
+}
+
+.para-all{
+	text-align:center;
+}
+
+
+.small-icon-box{
+	height:100px;
+	width: 100px;
+}
+
+.list-group-item{
+	background-color:transparent;
+}
+
+.navbar-custom {
+    background-color: rgb(58, 58, 58,0.5);
+}
+.drop-bg{
+    background-color: transparent;
+    border: none;
+}
+.drp-ac{
+    color:  rgb(68, 107, 236);
+}
+.dropdown-toggle{
+    color:  rgb(68, 107, 236);;
+}
+.dropdown-toggle:hover{
+    color: #afafaf;
+}
+.dropdown-toggle:focus{
+    box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0);
+}
+.nav-link{
+    color:  #fff;
+}
+.nav-link:hover{
+    color: rgb(40, 133, 255);
+}
+.navbar-brand{
+    color: white;
+    text-decoration: none;
+}
+
+.navbar-brand:hover{
+    color: rgb(40, 133, 255);
+}
+
+.custom-toggler.navbar-toggler {
+    border-color:rgb(40, 133, 255);
+}
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(9,55,244, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
